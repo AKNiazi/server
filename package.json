@@ -1,0 +1,11 @@
+{
+  "name": "simple-server",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "querystring": "^0.2.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "url": "^0.11.0"
+  }
+}
